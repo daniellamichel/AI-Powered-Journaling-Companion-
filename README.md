@@ -55,4 +55,3 @@ This is a code bundle for Journaling App Interface Design. The original project 
 Run `npm i` to install the dependencies.
 
 Run `npm run dev` to start the development server.
-# AI-Powered-Journaling-Companion-

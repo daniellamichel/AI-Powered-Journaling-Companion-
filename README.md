@@ -1,8 +1,6 @@
-# 🌟 AI-Powered Journaling Companion
-**PDF of Design Documentation:** [PANW AI-Powered Journaling Companion.pdf](PANW%20AI-Powered%20Journaling%20Companion.pdf)
-
-🎥 **Watch Demo:** [Embedded Version](https://yourusername.github.io/repo/demo.html)
-
+AI-Powered Journaling Companion 
+PDF of Design Documentation: "PANW AI-Powered Journaling Companion.pdf" 
+Presentation Video: https://www.loom.com/share/81f19b89b1b544d58ea81d1a431c19b5
 
 ---
 

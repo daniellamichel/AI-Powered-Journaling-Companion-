@@ -1,5 +1,8 @@
 AI-Powered Journaling Companion
 
+Presentation!: https://www.loom.com/share/81f19b89b1b544d58ea81d1a431c19b5
+<div style="position: relative; padding-bottom: 54.0625%; height: 0;"><iframe src="https://www.loom.com/embed/81f19b89b1b544d58ea81d1a431c19b5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 A simple, AI-powered journaling app that helps you reflect on your thoughts and emotions by analyzing sentiment, themes, and generating weekly summaries. Perfect for building a consistent journaling habit!
 
 🌟 Features

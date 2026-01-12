@@ -1,51 +1,82 @@
-AI-Powered Journaling Companion
-PDF of Design Documentation: "PANW AI-Powered Journaling Companion.pdf"
+# 🌟 AI-Powered Journaling Companion
+**PDF of Design Documentation:** [PANW AI-Powered Journaling Companion.pdf](PANW%20AI-Powered%20Journaling%20Companion.pdf)
 
-Presentation Video: https://www.loom.com/share/81f19b89b1b544d58ea81d1a431c19b5
+🎥 **Presentation Video:** [Watch on Loom](https://www.loom.com/share/81f19b89b1b544d58ea81d1a431c19b5)
 
-A simple, AI-powered journaling app that helps you reflect on your thoughts and emotions by analyzing sentiment, themes, and generating weekly summaries. Perfect for building a consistent journaling habit!
+---
 
-🌟 Features
+## 📝 About the App
+**#AI #Journaling #Productivity #Mindfulness #SelfReflection**  
 
-📝 Write journal entries in a clean, calming editor
+A **simple AI-powered journaling app** that helps you reflect on your thoughts and emotions by **analyzing sentiment, identifying themes, and generating weekly summaries**. Perfect for building a consistent journaling habit!  
 
-😄 Track mood with emoji-based sentiment
+---
 
-🤖 AI analyzes each entry for sentiment and themes
+## 🌟 Features
+**#Features #Journaling #AIInsights #MoodTracking**
 
-📚 View past entries in an organized list
+- 📝 **Write journal entries** in a clean, calming editor  
+- 😄 **Track mood** with emoji-based sentiment  
+- 🤖 **AI analyzes** each entry for sentiment and themes  
+- 📚 **View past entries** in an organized list  
+- 📊 **Weekly summaries** highlighting emotional patterns and recurring themes  
+- 🔒 **Privacy-first:** all entries stored locally  
 
-📊 See weekly summaries highlighting emotional patterns and recurring themes
+---
 
-🔒 Keep everything private (entries stored locally in app state)
+## 🛠 Tech Stack
+**#TechStack #Frontend #Backend #OpenAI #NodeJS #React**
 
-🛠 Tech Stack
+**Frontend (Client)**  
+- React + Vite  
+- Displays entries, moods, themes, and weekly summaries  
+- Provides a screen for writing and saving new entries  
 
-Frontend (Client):
+**Backend (Server)**  
+- Node.js + Express  
+- Receives journal entries and calls **OpenAI GPT** to generate:  
+  - 🧠 Sentiment score  
+  - 🎯 Themes  
+  - 📆 Weekly summaries  
+- Returns results to frontend  
 
-React + Vite
+---
 
-Displays entries, moods, themes, and weekly summaries
+## 🎬 Walkthrough
+**#AppWalkthrough #Demo #JournalingApp**
 
-Provides a screen for writing and saving new entries
+**Walkthrough without sound:**  
+<iframe src="https://www.loom.com/embed/fc020ff351944a7aab6575745659d887" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>  
 
-Backend (Server):
+---
 
-Node.js + Express
+## 🎨 Design
+**#Design #Figma #UIUX**
 
-Receives new journal entries
+**Journaling App Interface Design**  
+- Original Figma project: [View on Figma](https://www.figma.com/make/JUS7LPSmHjinWiqzgpJarg/Journaling-App-Interface-Design?t=4ykVcrkHoVqeC5dX-20&fullscreen=1)
 
-Calls OpenAI GPT to generate:
+---
 
-🧠 Sentiment score
+## 📦 GitHub Stats
+**#OpenSource #Languages #Stats**  
 
-🎯 Themes
+- Languages: TypeScript 96.3%, CSS 3.2%, Other 0.5%  
+- Stars: 0 | Watchers: 0 | Forks: 0  
 
-📆 Weekly summaries
+**Suggested workflows based on tech stack:**  
+- **#Deno:** Test your Deno project  
+- **#Webpack:** Build NodeJS project with npm + webpack  
+- **#SLSA:** Generate SLSA3 provenance  
 
-Returns results to frontend
+---
 
-Walkthrough of Application Alone without sound: <div style="position: relative; padding-bottom: 43.125%; height: 0;"><iframe src="https://www.loom.com/embed/fc020ff351944a7aab6575745659d887" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+## 🔒 Privacy
+**#Privacy #LocalStorage #Secure**
+
+All entries are stored locally and never sent to external servers besides AI processing for analysis.  
+
+---
 
 # Journaling App Interface Design
 

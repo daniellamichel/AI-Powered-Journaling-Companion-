@@ -1,7 +1,8 @@
 # 🌟 AI-Powered Journaling Companion
 **PDF of Design Documentation:** [PANW AI-Powered Journaling Companion.pdf](PANW%20AI-Powered%20Journaling%20Companion.pdf)
 
-🎥 **Presentation Video: <div style="position: relative; padding-bottom: 54.0625%; height: 0;"><iframe src="https://www.loom.com/embed/81f19b89b1b544d58ea81d1a431c19b5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+🎥 **Watch Demo:** [Embedded Version](https://yourusername.github.io/repo/demo.html)
+
 
 ---
 

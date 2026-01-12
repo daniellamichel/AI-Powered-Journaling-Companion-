@@ -49,6 +49,8 @@ AI:
 
 OpenAI GPT for sentiment analysis, theme extraction, and weekly reflection summaries
 
+Walkthrough of Application Alone without sound: <div style="position: relative; padding-bottom: 43.125%; height: 0;"><iframe src="https://www.loom.com/embed/fc020ff351944a7aab6575745659d887" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 # Journaling App Interface Design
 
 This is a code bundle for Journaling App Interface Design. The original project is available at https://www.figma.com/make/JUS7LPSmHjinWiqzgpJarg/Journaling-App-Interface-Design?t=4ykVcrkHoVqeC5dX-20&fullscreen=1.
